@@ -1,7 +1,12 @@
 from collections import defaultdict
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        hash_set=set(nums)
-        total = sum(nums)
-        hash_set_total = sum(hash_set)*2
-        return hash_set_total-total
+        d=defaultdict(list)
+        for num in nums:
+            if num in d.keys():
+                d[num]+=1
+            else:
+                d[num]=1
+        for i in d.keys():
+            if d[i]==1:
+                return i
