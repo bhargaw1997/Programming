@@ -11,7 +11,7 @@ class Solution:
         
         #build graph
         for i in prerequisites:
-            parent,child= i[0], i[1]
+            parent,child= i[1], i[0]
             graph[parent].append(child)
             in_degree[child] += 1
         
@@ -25,9 +25,11 @@ class Solution:
         while sources:
             vertex = sources.popleft()
             sorted_list.append(vertex)
+            # print(sorted_list)
             for child in graph[vertex]:
                 in_degree[child] -= 1
                 if in_degree[child] == 0:
                     sources.append(child)
+        # print(sorted_list)
         return len(sorted_list) == numCourses
             
