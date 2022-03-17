@@ -1,17 +1,9 @@
-from collections import defaultdict,Counter
+from collections import defaultdict 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        new_lst = []
-        for i in strs:
-            word=sorted(i)
-            new_lst.append("".join(word))
-        dic = defaultdict(list)
-        for i,a in enumerate(new_lst):
-            if a not in dic.keys():
-                dic[a] = [strs[i]]
-            else:
-                dic[a].append(strs[i])
-        ans=[]
-        for i in dic.keys():
-            ans.append(dic[i])
-        return ans
+        sorted_anagrams = defaultdict(list)
+        for str in strs:
+            sorted_str = ''.join(sorted(str))
+            sorted_anagrams[sorted_str].append(str)
+
+        return sorted_anagrams.values()
