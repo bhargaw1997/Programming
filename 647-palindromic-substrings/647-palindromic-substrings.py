@@ -1,10 +1,19 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        dp = [[False]*len(s) for _ in range(len(s))]
-        count = 0
+        res = ""
+        reslen=0
+        ans = []
         for i in range(len(s)):
-            for j in range(i):
-                if s[i]==s[j] and (i-j+1 <= 3 or dp[i-1][j+1]):
-                    count += 1
-                    dp[i][j] = True
-        return count + len(s)
+            #odd number
+            l,r=i,i
+            while(l>=0 and r<len(s) and s[l]==s[r]):
+                ans.append(s[l:r+1])
+                l-=1
+                r+=1
+            #even number
+            l,r=i,i+1
+            while(l>=0 and r<len(s) and s[l]==s[r]):
+                ans.append(s[l:r+1])
+                l-=1
+                r+=1
+        return len(ans)
