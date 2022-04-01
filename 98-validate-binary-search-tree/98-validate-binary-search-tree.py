@@ -6,17 +6,10 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
-        
-        stack=[(root,-math.inf,math.inf)]
-        while stack:
-            root,lower,upper = stack.pop()
+        def valid(root, lower=-math.inf, upper=math.inf):
             if not root:
-                continue
-            val = root.val
-            if val<=lower or val >= upper:
+                return True
+            if(root.val <= lower or root.val>=upper):
                 return False
-            stack.append((root.right,val,upper))
-            stack.append((root.left,lower,val))
-        return True
+            return valid(root.right,root.val,upper) and valid(root.left,lower,root.val)
+        return valid(root)
