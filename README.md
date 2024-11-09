@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
