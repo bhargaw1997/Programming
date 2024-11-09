@@ -27,9 +27,15 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0001-two-sum](https://github.com/bhargaw1997/Programming/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
