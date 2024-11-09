@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,8 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
