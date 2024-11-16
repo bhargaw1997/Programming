@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -137,9 +140,11 @@ Collection of LeetCode questions to ace the coding
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
