@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhargaw1997/Programming/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
