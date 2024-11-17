@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
@@ -147,4 +149,16 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
