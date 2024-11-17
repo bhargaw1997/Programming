@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
 ## Two Pointers
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding
 | [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
 |  |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 ## Data Stream
 |  |
 | ------- |
