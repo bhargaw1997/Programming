@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
 ## Greedy
 |  |
