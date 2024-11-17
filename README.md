@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 ## Design
