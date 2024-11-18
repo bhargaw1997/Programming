@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -210,4 +212,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
