@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -228,4 +229,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhargaw1997/Programming/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
