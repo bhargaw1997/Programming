@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0001-two-sum](https://github.com/bhargaw1997/Programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/bhargaw1997/Programming/tree/master/0908-middle-of-the-linked-list) |
