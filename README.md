@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Randomized
 |  |
 | ------- |
