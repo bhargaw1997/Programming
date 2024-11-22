@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/bhargaw1997/Programming/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
