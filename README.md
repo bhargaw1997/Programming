@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/bhargaw1997/Programming/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Backtracking
