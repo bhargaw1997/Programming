@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
@@ -270,4 +271,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
