@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/bhargaw1997/Programming/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -278,4 +281,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
