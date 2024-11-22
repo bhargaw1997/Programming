@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhargaw1997/Programming/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/bhargaw1997/Programming/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
