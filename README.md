@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding
 | [0207-course-schedule](https://github.com/bhargaw1997/Programming/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,4 +240,8 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
