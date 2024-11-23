@@ -11,11 +11,10 @@ class Solution:
             if node:
                 if low <= node.val <= high:
                     ans += node.val
-                if node.val > low:
+                if low < node.val:
                     dfs(node.left)
-                if node.val < high:
+                if high > node.val:
                     dfs(node.right)
-        
         ans = 0
         dfs(root)
         return ans
