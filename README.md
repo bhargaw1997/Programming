@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Randomized
