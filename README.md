@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
+| [0670-maximum-swap](https://github.com/bhargaw1997/Programming/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/bhargaw1997/Programming/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
