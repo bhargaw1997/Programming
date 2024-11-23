@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/bhargaw1997/Programming/tree/master/0807-custom-sort-string) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/bhargaw1997/Programming/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
+| [0807-custom-sort-string](https://github.com/bhargaw1997/Programming/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
