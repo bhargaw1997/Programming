@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 ## Doubly-Linked List
 |  |
