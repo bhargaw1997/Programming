@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search Tree
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
