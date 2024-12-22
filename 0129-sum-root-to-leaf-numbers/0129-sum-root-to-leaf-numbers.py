@@ -11,10 +11,10 @@ class Solution:
             if node.left is None and node.right is None:
                 self.sum += int(prev+val)
             if node.left:
-                dfs(node.left, prev + val)
+                dfs(node.left, prev+val)
             if node.right:
-                dfs(node.right, prev + val)
-        
-        self.sum = 0
+                dfs(node.right, prev+val)
+
+        self.sum = 0 
         dfs(root, '')
         return self.sum
