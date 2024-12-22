@@ -3,7 +3,7 @@ class Solution:
         stack = []
         invalid_indices = set()
 
-        for i, char in enumerate(s):
+        for i,char in enumerate(s):
             if char == '(':
                 stack.append(i)
             elif char == ')':
@@ -13,6 +13,6 @@ class Solution:
                     invalid_indices.add(i)
         invalid_indices.update(stack)
 
-        result = ''.join(char for i, char in enumerate(s) if i not in invalid_indices)
+        return ''.join(char for i, char in enumerate(s) if i not in invalid_indices)
 
-        return result
+        
