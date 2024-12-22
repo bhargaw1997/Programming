@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding
 | [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/bhargaw1997/Programming/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
