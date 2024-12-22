@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/bhargaw1997/Programming/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
