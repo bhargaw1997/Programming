@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/bhargaw1997/Programming/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/bhargaw1997/Programming/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
