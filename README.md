@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/bhargaw1997/Programming/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1646-kth-missing-positive-number](https://github.com/bhargaw1997/Programming/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
