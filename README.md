@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/bhargaw1997/Programming/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding
 | [0065-valid-number](https://github.com/bhargaw1997/Programming/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/bhargaw1997/Programming/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding
 | [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhargaw1997/Programming/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/bhargaw1997/Programming/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhargaw1997/Programming/tree/master/0239-sliding-window-maximum) |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [1025-minimum-cost-for-tickets](https://github.com/bhargaw1997/Programming/tree/master/1025-minimum-cost-for-tickets) |
 ## Graph
@@ -359,4 +363,12 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhargaw1997/Programming/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
