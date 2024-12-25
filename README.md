@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/bhargaw1997/Programming/tree/master/0605-can-place-flowers) |
 | [0721-accounts-merge](https://github.com/bhargaw1997/Programming/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/bhargaw1997/Programming/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/bhargaw1997/Programming/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/bhargaw1997/Programming/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
