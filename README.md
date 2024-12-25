@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding
 | [0347-top-k-frequent-elements](https://github.com/bhargaw1997/Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaw1997/Programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0398-random-pick-index](https://github.com/bhargaw1997/Programming/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/bhargaw1997/Programming/tree/master/0398-random-pick-index) |
 | [0670-maximum-swap](https://github.com/bhargaw1997/Programming/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/bhargaw1997/Programming/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 ## Matrix
 |  |
@@ -392,4 +395,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/bhargaw1997/Programming/tree/master/1908-recyclable-and-low-fat-products) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/bhargaw1997/Programming/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
