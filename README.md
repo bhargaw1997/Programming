@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding
 | [0807-custom-sort-string](https://github.com/bhargaw1997/Programming/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/bhargaw1997/Programming/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding
 | [0908-middle-of-the-linked-list](https://github.com/bhargaw1997/Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/bhargaw1997/Programming/tree/master/1028-interval-list-intersections) |
+| [1894-merge-strings-alternately](https://github.com/bhargaw1997/Programming/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
