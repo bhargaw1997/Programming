@@ -388,4 +388,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/bhargaw1997/Programming/tree/master/0721-accounts-merge) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/bhargaw1997/Programming/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
