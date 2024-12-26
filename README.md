@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/bhargaw1997/Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/bhargaw1997/Programming/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhargaw1997/Programming/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 ## Memoization
 |  |
