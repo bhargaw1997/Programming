@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhargaw1997/Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/bhargaw1997/Programming/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaw1997/Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/bhargaw1997/Programming/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaw1997/Programming/tree/master/0199-binary-tree-right-side-view) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
 | [1025-minimum-cost-for-tickets](https://github.com/bhargaw1997/Programming/tree/master/1025-minimum-cost-for-tickets) |
