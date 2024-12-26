@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding
 | [0141-linked-list-cycle](https://github.com/bhargaw1997/Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhargaw1997/Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/bhargaw1997/Programming/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/bhargaw1997/Programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhargaw1997/Programming/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding
 | [0090-subsets-ii](https://github.com/bhargaw1997/Programming/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/bhargaw1997/Programming/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/bhargaw1997/Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhargaw1997/Programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bhargaw1997/Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhargaw1997/Programming/tree/master/0295-find-median-from-data-stream) |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/bhargaw1997/Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaw1997/Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhargaw1997/Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/bhargaw1997/Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -378,6 +382,7 @@ Collection of LeetCode questions to ace the coding
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhargaw1997/Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhargaw1997/Programming/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
