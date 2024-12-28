@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0001-two-sum](https://github.com/bhargaw1997/Programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/bhargaw1997/Programming/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/bhargaw1997/Programming/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaw1997/Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/bhargaw1997/Programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhargaw1997/Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/bhargaw1997/Programming/tree/master/0065-valid-number) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/bhargaw1997/Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bhargaw1997/Programming/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/bhargaw1997/Programming/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
