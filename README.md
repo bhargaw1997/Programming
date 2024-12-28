@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhargaw1997/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhargaw1997/Programming/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bhargaw1997/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaw1997/Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhargaw1997/Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhargaw1997/Programming/tree/master/0138-copy-list-with-random-pointer) |
