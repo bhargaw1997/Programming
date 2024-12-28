@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding
 | [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhargaw1997/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhargaw1997/Programming/tree/master/0125-valid-palindrome) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhargaw1997/Programming/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhargaw1997/Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/bhargaw1997/Programming/tree/master/0474-ones-and-zeroes) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/bhargaw1997/Programming/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/bhargaw1997/Programming/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bhargaw1997/Programming/tree/master/0394-decode-string) |
@@ -430,4 +434,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/bhargaw1997/Programming/tree/master/0398-random-pick-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
