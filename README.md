@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargaw1997/Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/bhargaw1997/Programming/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/bhargaw1997/Programming/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/bhargaw1997/Programming/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding
 | [0502-ipo](https://github.com/bhargaw1997/Programming/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/bhargaw1997/Programming/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/bhargaw1997/Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/bhargaw1997/Programming/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhargaw1997/Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhargaw1997/Programming/tree/master/0792-binary-search) |
