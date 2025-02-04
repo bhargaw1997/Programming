@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding
 | [0807-custom-sort-string](https://github.com/bhargaw1997/Programming/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhargaw1997/Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhargaw1997/Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/bhargaw1997/Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/bhargaw1997/Programming/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding
 | [0560-subarray-sum-equals-k](https://github.com/bhargaw1997/Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/bhargaw1997/Programming/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhargaw1997/Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/bhargaw1997/Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Randomized
 |  |
 | ------- |
