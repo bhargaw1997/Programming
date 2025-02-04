@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding
 | [0031-next-permutation](https://github.com/bhargaw1997/Programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/bhargaw1997/Programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bhargaw1997/Programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhargaw1997/Programming/tree/master/0054-spiral-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bhargaw1997/Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
 |  |
@@ -446,4 +448,8 @@ Collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargaw1997/Programming/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/bhargaw1997/Programming/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
