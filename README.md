@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding
 | [0057-insert-interval](https://github.com/bhargaw1997/Programming/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bhargaw1997/Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhargaw1997/Programming/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargaw1997/Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhargaw1997/Programming/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/bhargaw1997/Programming/tree/master/0139-word-break) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhargaw1997/Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaw1997/Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargaw1997/Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bhargaw1997/Programming/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bhargaw1997/Programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargaw1997/Programming/tree/master/0349-intersection-of-two-arrays) |
